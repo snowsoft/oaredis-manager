@@ -1,9 +1,9 @@
 {
-    "name": "open-admin-ext/redis-manager",
+    "name": "snowsoft/oaredis-manager",
     "description": "Redis manager for open-admin",
     "type": "library",
     "keywords": ["open-admin", "redis", "manager"],
-    "homepage": "https://github.com/open-admin-org/redis-manager",
+    "homepage": "https://github.com/snowsoft/oaredis-manager",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "open-admin-org/open-admin": "~1.0.20",
+        "snowsoft/open-admin": "~v.0.01",
         "predis/predis": "~1.0"
     },
     "require-dev": {
