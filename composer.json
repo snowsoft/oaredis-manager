@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "snowsoft/open-admin": "~v.0.01",
+        "snowsoft/open-admin": "~v0.01",
         "predis/predis": "~1.0"
     },
     "require-dev": {
