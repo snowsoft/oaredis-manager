@@ -16,7 +16,7 @@ Redis manager for open-admin
 ## Installation
 
 ```
-$ composer require open-admin-ext/redis-manager
+$ composer require snowsoft/oaredis-manager
 
 $ php artisan admin:import redis-manager
 ```
